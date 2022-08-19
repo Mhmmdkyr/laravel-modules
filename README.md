@@ -68,14 +68,14 @@ You'll find installation instructions and full documentation on [https://docs.la
 
 ## Credits
 
-- [Nicolas Widart](https://github.com/mhmmdkyr)
+- [Muhammed Kayar](https://github.com/mhmmdkyr)
 - [David Carr](https://github.com/dcblogdev)
 - [gravitano](https://github.com/gravitano)
 - [All Contributors](../../contributors)
 
-## About Nicolas Widart
+## About Muhammed Kayar
 
-Nicolas Widart is a freelance web developer specialising on the Laravel framework. View all my packages [on my website](https://mhmmdkyr.com/), or visit [my website](https://nicolaswidart.com).
+Muhammed Kayar is a freelance web developer specialising on the Laravel framework. View all my packages [on my website](https://mhmmdkyr.com/), or visit [my website](https://nicolaswidart.com).
 
 
 ## License

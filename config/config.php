@@ -215,8 +215,8 @@ return [
     'composer' => [
         'vendor' => 'mhmmdkyr',
         'author' => [
-            'name' => 'Nicolas Widart',
-            'email' => 'n.widart@gmail.com',
+            'name' => 'Muhammed Kayar',
+            'email' => 'mhmmdkyr@gmail.com',
         ],
         'composer-output' => false,
     ],
