@@ -4,6 +4,7 @@ namespace $NAMESPACE$;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Database\Eloquent\Factory;
+use App\Helpers\Fabs;
 
 class $CLASS$ extends ServiceProvider
 {
@@ -24,6 +25,18 @@ class $CLASS$ extends ServiceProvider
      */
     public function boot()
     {
+        $arr = [
+            'label' => '$MODULE$',
+            'link' => '$LOWER_NAME$',
+            'icon' => 'ti-plug',
+            'child' => [
+                [
+                    'label' => 'All $MODULE$',
+                    'link' => '$LOWER_NAME$',
+                ]
+            ]
+        ];
+        Fabs::add_admin_menu($arr);
         $this->registerTranslations();
         $this->registerConfig();
         $this->registerViews();
