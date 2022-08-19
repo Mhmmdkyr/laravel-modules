@@ -17,7 +17,7 @@ All Notable changes to `laravel-modules` will be documented in this file.
 
 ### Changed
 
-- [@iamine](https://github.com/iamine) Added Anonymous migration class as default like in Laravel 9.0 [#1363](https://github.com/nWidart/laravel-modules/pull/1363)
+- [@iamine](https://github.com/iamine) Added Anonymous migration class as default like in Laravel 9.0 [#1363](https://github.com/mhmmdkyr/laravel-modules/pull/1363)
 
 ## 9.0 - 2022-02-10
 
@@ -146,7 +146,7 @@ All Notable changes to `laravel-modules` will be documented in this file.
 
 ### Added
 
-- New File Activator feature. [PR #790](https://github.com/nWidart/laravel-modules/pull/790) from @ryssbowh
+- New File Activator feature. [PR #790](https://github.com/mhmmdkyr/laravel-modules/pull/790) from @ryssbowh
     
     This feature changes how modules are activated and de-activated. Currently module statuses are stored on disk, this features adds the possibility of storing this status information in a database.
     
@@ -154,7 +154,7 @@ All Notable changes to `laravel-modules` will be documented in this file.
     
 ### Changed
 
-- Alternate way to define the namespace of modules in [PR #776](https://github.com/nWidart/laravel-modules/pull/776) by @daison12006013
+- Alternate way to define the namespace of modules in [PR #776](https://github.com/mhmmdkyr/laravel-modules/pull/776) by @daison12006013
 
     This allows to have the content of the module under an `src/` folder for example.
 - **BREAKING** New way to handle active and inactive modules.
@@ -247,7 +247,7 @@ All Notable changes to `laravel-modules` will be documented in this file.
 
 ### Added
 
-- Laravel mix configuration (https://nwidart.com/laravel-modules/v3/basic-usage/compiling-assets)
+- Laravel mix configuration (https://mhmmdkyr.com/laravel-modules/v3/basic-usage/compiling-assets)
 
 ### Changed
 
@@ -631,7 +631,7 @@ All Notable changes to `laravel-modules` will be documented in this file.
 
 ### Fixed
 
-- Module generation namespace now works with `StudlyCase` ([Issue #14](https://github.com/nWidart/laravel-modules/issues/14))
+- Module generation namespace now works with `StudlyCase` ([Issue #14](https://github.com/mhmmdkyr/laravel-modules/issues/14))
 - No module namespace fix (#13)
 
 ### Changed
