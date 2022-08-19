@@ -1,6 +1,6 @@
 <?php
 
-namespace Nwidart\Modules\Traits;
+namespace Mhmmdkyr\Modules\Traits;
 
 trait ModuleCommandTrait
 {

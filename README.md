@@ -40,7 +40,7 @@ The package will automatically register a service provider and alias.
 Optionally, publish the package's configuration file by running:
 
 ``` bash
-php artisan vendor:publish --provider="Nwidart\Modules\LaravelModulesServiceProvider"
+php artisan vendor:publish --provider="Mhmmdkyr\Modules\LaravelModulesServiceProvider"
 ```
 
 ### Autoloading

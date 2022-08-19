@@ -1,8 +1,8 @@
 <?php
 
-namespace Nwidart\Modules\Process;
+namespace Mhmmdkyr\Modules\Process;
 
-use Nwidart\Modules\Module;
+use Mhmmdkyr\Modules\Module;
 
 class Updater extends Runner
 {

@@ -1,6 +1,6 @@
 <?php
 
-namespace Nwidart\Modules\Support;
+namespace Mhmmdkyr\Modules\Support;
 
 class Stub
 {
